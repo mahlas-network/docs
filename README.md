@@ -1,14 +1,18 @@
-Mahlas is an artwork, a collaborative art/artist creation framework.
+Mahlas is an artwork, a temporal trustless organization creation framework.
 
 # Vision
 
-Mahlas is an attempt to strengthen artists, art creation processes and the art scene. It is architected to support, collaboration without borders, decentralization, autonomy and diversity. Core values and principles are transparency, producing copyleft, allocentric, forkable, non-anthropocentric and temporal works.
+Mahlas is an attempt is to disrupt the current understanding of creation process by experimenting temporary trustless organizations.
+
+It is architected to support, collaboration without borders, decentralization, autonomy and diversity. 
+
+Core values and principles are transparency, producing copyleft, allocentric, forkable, non-anthropocentric and temporal experiences.
+
 
 
 # Mission
 
-* To create a platform for artistic expression.
+* A platform for creating organization blueprints.
+* To encourage new ways of creation.
 * To offer opportunities for employment and collaboration.
-* To organize and facilitate exhibitions.
-* To encourage new ways of art creation.
 * To support collaboration without borders.
