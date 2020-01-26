@@ -13,6 +13,9 @@ This section is planned to give ideas why Mahlas framework might worth something
 
 * TAZ
 * Blockchain
+* Human Computation
+* Social BPM
+* BPML, BPEL
 * Decentralized Autonomous Organization
 * Sociocracy
 * micro tasks
