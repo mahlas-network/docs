@@ -27,6 +27,7 @@ This section is planned to give ideas why Mahlas framework might worth something
 
 * [colony.io](http://colony.io)
 * [daostack.io](https://daostack.io/)
+* CrowdLang 
 
 # Etymology
 
