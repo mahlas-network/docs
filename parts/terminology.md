@@ -21,6 +21,14 @@ see [Mahlas Guide](/parts/uncategorized/newMahlas.md) for details.
 
 List of other words discussed : blueprint, manifest, pink paper
 
+# Dreamer
+
+Dreamor is the entity that creates the main task.
+
+# Sentence Executor
+
+Sentence Executor is a simpler version Mahlas Framework which executes a sentence / a task
+
 # Mahlas Framework
 
 The framework where mahlas's get created.
