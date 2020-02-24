@@ -1,0 +1,24 @@
+graph G {
+	user [label="creator"];
+	balance [label="value"];
+	dreamer -- dream
+	report -- dreamer
+	user -- execution
+	dream -- execution
+	dream -- cost
+	dream -- report
+	dream -- task
+	task -- cost
+	task -- execution
+	task -- task_state
+	task_state -- proposed
+	task_state -- accepted
+	task_state -- finished
+	user -- task
+	user -- balance
+	user -- task_state
+	report -- execution
+	dream -- language
+	task -- language
+	execution -- deadline
+}
