@@ -15,7 +15,7 @@
 * no report is autmatically prepared
 
 **Execution**
-'''
+```
 execute{      
 until all task are done
   take first task undone
@@ -24,7 +24,7 @@ until all task are done
         execute task w/consensus
         mark task done
 }  
-'''
+```
 
 **Database**
 
