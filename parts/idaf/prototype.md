@@ -12,7 +12,7 @@
 * money for the production budget is know by all creators
 * time is not important
 * every data can be accessed by every creator
-* no report is autmatically prepared
+* no report is automatically prepared
 
 **Execution**
 ```
