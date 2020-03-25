@@ -16,14 +16,15 @@
 
 **Execution**
 ```
-execute{      
-until all task are done
-  take first task undone
-        tag task
-        set consensus for task type
-        execute task w/consensus
-        mark task done
+      
+until all task in bpml are done{
+  task = first task undone
+  tag task
+  set consensus for task type
+  execute task w/consensus
+  mark task done
 }  
+
 ```
 
 **Database**
