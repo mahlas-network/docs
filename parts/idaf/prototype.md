@@ -10,7 +10,7 @@
 * simple tasks like "tag", "set consensus" does not have a consensus
 * creators works for free
 * money for the production budget is know by all creators
-* time is not important
+* time is not important and not logged
 * every data can be accessed by every creator
 * no report is automatically prepared
 
