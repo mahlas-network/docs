@@ -19,11 +19,13 @@
       
 until all task in bpml are done{
   task = first task undone
-  tag task
-  set consensus for task type
-  execute task w/consensus
-  mark task done
-}  
+  repeat until (task is done)
+      tag task
+      set consensus for task type
+      execute task w/consensus
+      if (consensus met) mark task done
+  end repeat
+}
 
 ```
 
