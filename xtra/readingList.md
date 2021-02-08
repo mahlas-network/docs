@@ -17,6 +17,7 @@
 - [Holographic consensus](https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c)
 - [Distributed Governance January Updates](https://medium.com/dgov/distributed-governance-january-updates-541228eceb5c)
 - [The General Theory of Decentralized Applications, Dapps](https://github.com/DavidJohnstonCEO/DecentralizedApplications)
+- [Mandevillian intelligenc](https://pubmed.ncbi.nlm.nih.gov/30930501/)
 
 ## Forum
 - [daotalks](https://daotalk.org/)
